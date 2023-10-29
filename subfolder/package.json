@@ -1,0 +1,7 @@
+{
+  "name": "SublimeJsPrettier-bug",
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "prettier-plugin-packagejson": "^2.4.3"
+  }
+}
